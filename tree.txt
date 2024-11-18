@@ -1,0 +1,20 @@
+Projeto-Biometria
+|
++---assets
+|   |
+|   +---frame0
+|       |   todas imagens
+|
++---projeto_biometria
+|   |   main.py
+|   |   __init__.py
+|
++---biometria_components
+|   |   biometria_control.py
+|
++---db_components
+|   |   db_control.py
+|
++---gui_components
+    |   gui_main.py
+    |   __init__.py
